@@ -1,4 +1,4 @@
-# 4bit/8bit Hitachi HD44780 LCD2004 Ada interface for Raspberry Pi
+# 4bit/8bit HD44780 LCD2004 Ada interface for Raspberry Pi
 
 Ada Interface for Raspberry Pi for controlling a LCD2004 HD44780 (4 lines of 20 5*7 characters) display.
 
